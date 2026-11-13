@@ -1,0 +1,17 @@
+# 运行数据与账号信息
+data/db.json
+data/*.tmp
+backups/
+.screenshots/
+
+# 本地生成的分享包
+.trae-html-share-packages/
+
+# 依赖与日志
+node_modules/
+*.log
+npm-debug.log*
+
+# 系统文件
+Thumbs.db
+.DS_Store
